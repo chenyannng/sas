@@ -3,4 +3,5 @@ This code imports and explores the data "insurance.csv".
 It includes:   
 -frequency tables  
 -histograms  
--linear regression  
+-linear regression 
+-creating dummy variables
